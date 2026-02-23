@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "esbuild": "^0.19.11",
+    "hardhat": "^3.1.9"
+  }
+}
