@@ -49,5 +49,6 @@ contract FundMe {
         uint256 ethPrice = uint(getChainlinkDataFeedLatestAnswer());
         return ethAmount * ethPrice / (10 ** 8);
     }
+    
 
 }
